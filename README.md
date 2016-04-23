@@ -39,3 +39,5 @@ This is a simple test of basic CS fundamentals as well as basic Angular knowledg
 
 ### Solution Discussion:
 - Your solution explanation goes here.
+I have used the iteration method, as the button is pressed the function updates the Fibonacci sequence number. By pressing the reset button the all variables return to its initial base value. Also I have inculded CSS style button library to change its default design of the button.
+
